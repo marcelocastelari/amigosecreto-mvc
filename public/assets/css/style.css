@@ -1,0 +1,123 @@
+body {
+    font-family:Helvetica;
+    font-size:13px;
+    margin:20px;
+}
+
+header {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+table {
+    margin-top:20px;
+}
+table th {
+    padding:10px;
+    background-color:#0071b7;
+    color: #FFF;
+}
+table tr td {
+    padding:10px;
+}
+table tr:hover td {
+    background-color:#EEE;
+}
+
+.container  a{
+    width: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+    color: black;
+    background-color: #0071b7;
+    border-radius: 5%;
+    padding: 5px;
+    color: #FFF;
+}
+
+.container .buscar{
+    margin-top: 20px;
+}
+
+.container .sortear {
+    background-color: rgb(211, 0, 0);
+}
+
+.buscar button  {
+        background-color: #0071b7;
+        border: none;
+        color: #FFF;
+        height: 24px;
+        border-radius: 5%;
+        margin-left: 5px;
+}
+
+.buscar input {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #bbb;
+}
+
+footer,
+footer a {
+    margin-top: auto;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+}
+
+footer a:hover {
+    color: #0071b7;
+}
+
+.formcad input {
+    width: 240px;
+    margin-top: 3px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #bbb;
+}
+
+.formcad .add{
+    background-color: #0071b7;
+    width: 120px;
+    color: #FFF;
+}
+
+.tablebusca {
+    background-color: #CECECE;
+}
+
+.tablesorteio {
+    background-color: #CECECE;
+}
+
+.homebtn {
+    width: 120px;
+}
+
+.homebtn a {
+    text-decoration: none;
+    background-color: #1e9600;
+    padding: 5px;
+    width: 200px;
+    color: #FFF;
+    border-radius: 5px;
+}
+
+.formedit input {
+
+    width: 240px;
+    margin-top: 3px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #bbb;
+
+}
+
+form .btnsalvar {
+    background-color: #0071b7;
+    width: 120px;
+    color: #FFF;
+}
