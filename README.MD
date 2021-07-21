@@ -6,7 +6,7 @@ nomes e e-mails das pessoas a serem sorteadas.
 Na página Index, é listado o nome e e-mail das pessoas já cadastradas, juntamente com os botões de ação (Editar e Excluir)
 
 <p align="center">
-    <img width="460" src="public/assets/images/to_readme/home.png" />
+    <img width="460" src="master/public/assets/to_readme/home.png" />
 </p>
 
 ## Importante
